@@ -1,0 +1,9 @@
+{
+  "name": "DesktopConnect",
+  "displayName": "DesktopConnect",
+  "version": "2.0.0",
+  "description": "Open-source TIDAL Connect receiver for TIDAL Desktop via TidaLuna.",
+  "author": "dogday",
+  "main": "dist/index.mjs",
+  "native": "dist/remoteService.native.mjs"
+}
